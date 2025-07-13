@@ -11,7 +11,7 @@ Strategies about cracking ML  &amp; DS Interviews
 
 [Interview Experience @ Google: Machine Learning SWE III [2024]](https://ihitsuperhuman.medium.com/interview-experience-google-machine-learning-swe-iii-2024-af44399f36d5)
 
-
+[Interview Experience @ Google: Machine Learning SWE III [2025]](https://www.linkedin.com/posts/gaurav-singh-rajput-6619b6152_note-googleinterview-machinelearning-activity-7348227218910736387-CVLY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyMMaoBixRSEwk_l9Lok1_FtSDoQ1GwmpM) 
 [Google MLE Interview Experience](https://www.linkedin.com/posts/shivam-shrivastava-ab6404179_my-google-interview-experience-for-the-software-activity-7325466893945864192-F4sh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyMMaoBixRSEwk_l9Lok1_FtSDoQ1GwmpM)
 
 
